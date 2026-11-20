@@ -1,6 +1,8 @@
 # Mergestorm Homebrew tap
 
 ```sh
+brew tap marginsystems/tap
+brew trust --formula marginsystems/tap/mergestorm
 brew install marginsystems/tap/mergestorm
 ```
 
